@@ -7,3 +7,4 @@ backend = sqlite3
 gameid = minetest
 world_name = my1
 server_announce = false
+load_mod_i3 = false
